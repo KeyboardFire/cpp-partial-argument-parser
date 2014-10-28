@@ -1,3 +1,3 @@
-# KingOfTheCode
+# uhhh, something
 
-A framework for "king-of-the-hill" challenges on [Programming Puzzles and Code Golf Stack Exchange](http://codegolf.stackexchange.com).
+This was originally going to be a thing. But I realized I did the wrong thing. So now it's just a partially done argument parser.
