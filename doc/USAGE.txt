@@ -1,0 +1,2 @@
+Usage:
+  ./KingOfTheCode -i <id of post on codegolf.stackexchange.com>
